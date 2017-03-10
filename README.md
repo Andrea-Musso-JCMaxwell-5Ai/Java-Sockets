@@ -59,3 +59,6 @@ al server utilizzando il comando !listautenti.
 
 ## Licenza
 opensource nel modo piu' completo del termine :) senza alcuna restrizione!
+
+## Presentazione
+https://drive.google.com/open?id=1K6LxWS8DG1RC6hAXmygeEHghSB4uawpxh5tWkNUg34I
